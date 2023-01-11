@@ -1,2 +1,2 @@
-# NULP_AAP
-year1_sem1_AlgorithmsAndProgramming
+# nulp-aap
+year1-sem1-algorithms-and-programming
